@@ -1,6 +1,5 @@
 # MultiPDF Chat App
 
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
 
 ## Introduction
 ------------
@@ -59,7 +58,3 @@ To use the MultiPDF Chat App, follow these steps:
 ## Contributing
 ------------
 This repository is intended for educational purposes and does not accept further contributions. It serves as supporting material for a YouTube tutorial that demonstrates how to build this project. Feel free to utilize and enhance the app based on your own requirements.
-
-## License
--------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
